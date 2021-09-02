@@ -16,3 +16,13 @@ DevNation investors are looking to understand how students are engaging in the p
 - Who are the worst-performing students, in terms of attendance and the total time spent
 - Plot a box whisker diagram to represent median, upper quartile, lower quartile, and range of time spend in the class.
 
+ ### Hint: To solve this use-case, you would need to know how to perform the following
+
+* Read-write files using pandas
+* Grouping data using pandas and SQL
+* Data visualization using plotly
+     - Line chart
+     - Bar chart
+     - Histogram
+
+
