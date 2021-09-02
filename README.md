@@ -26,3 +26,23 @@ DevNation investors are looking to understand how students are engaging in the p
      - Histogram
 
 
+# Statistics Recap
+
+## We use statistics to 
+* Summarize data
+* Science of uncertainty 
+    - Access if the claims based on data are meaningful
+    - Data can be misleading
+    - Outliers
+* Science of decisions
+    * Data is only powerful if it can help us make some better decisions
+    * Decision-making is the ultimate goal.
+* Science of variation
+    - Understanding variation in data is extremely important.
+* Art of forecasting
+* Science of measurement
+    - Evaluating rigorous approaches for measuring difficult to define concepts and in assessing the quality
+        - Hard to quantify data examples
+             - Blood pressure, mood, Political ideology
+* Basis of principled data collection
+
