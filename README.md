@@ -75,27 +75,27 @@ Summarize Data. Basic statistics
       - Discrete
 
 #### **Categorical Data**
-        * Bar chart
+         Bar chart
 
 #### **How to represent categorical data graphically?**
-        * Bar chart
-        * Pie chart
+        Bar chart
+        Pie chart
 
 #### **Quantitative variable**
-         * Histogram
+          Histogram
 
 
 
 #### **Basics Statistics**
-        * Range
-        * Interquartile range
-        * Standard deviation
-        * Variance
-        * Outliers
+        Range
+        Interquartile range
+        Standard deviation
+        Variance
+         Outliers
 
 
 
 #### **Quantitative data**
-      * Numerical summaries
+      Numerical summaries
 
 
