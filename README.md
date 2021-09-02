@@ -46,3 +46,22 @@ DevNation investors are looking to understand how students are engaging in the p
              - Blood pressure, mood, Political ideology
 * Basis of principled data collection
 
+# Study design
+* Exploratory vs confirmatory 
+    - Confirmatory
+        - The hypothesis that we want to test
+    - Exploratory
+        - Analysis without any pre-specified question
+* Comparative vs non-comparative
+    - Many research studies are comparative in nature, where the goal is to compare and contrast one thing with another.
+    - Non-comparative 
+         - Estimating or predicting absolute quantities
+* Observational studies vs experiments
+
+
+## Power Analysis
+
+_Process design to access whether the given study will yield meaningful results_
+
+
+
