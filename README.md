@@ -64,4 +64,38 @@ DevNation investors are looking to understand how students are engaging in the p
 _Process design to access whether the given study will yield meaningful results_
 
 
+Summarize Data. Basic statistics
+
+Data: Variable types
+Categorical
+Nominal 
+Ordinal
+ Quantitative
+Continuous 
+Discrete
+
+Categorical Data
+Bar chart
+
+How to represent categorical data graphically?
+Bar chart
+Pie chart
+
+Quantitative variable
+Histogram
+
+
+
+Basics Statistics
+Range
+Interquartile range
+Standard deviation
+Variance
+Outliers
+
+
+
+Quantitative data
+Numerical summaries
+
 
